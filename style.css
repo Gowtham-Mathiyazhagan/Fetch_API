@@ -1,0 +1,44 @@
+body{
+  background-color: bisque;
+}
+.container{
+  box-sizing: border-box;
+   
+}
+.card-header{
+    padding: 0px;
+    background: black;
+    color: antiquewhite;
+   
+}
+
+.column{
+    margin-bottom: 30px;
+    padding: 20px;
+    align-items:center;
+    justify-content: space-around;
+    
+
+}
+.card-Text{
+   text-align: center;
+   text-overflow: ellipsis;
+}
+.card{
+    padding: 0px;
+    background-color: rgb(191, 191, 191);
+
+}
+.cardbody{
+   
+    background: rgb(118, 116, 116) !important;
+}
+img{
+    width:150px;
+    height: 250px;
+}
+.row{
+    display: flex;
+    flex-wrap: row;
+    
+}
